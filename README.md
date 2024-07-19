@@ -19,4 +19,4 @@
 |
 |
 |
-### LEYENDARY: Un proposito a futuro.
+### COPYRIGHT 2024 LEYENDARY: Un proposito a futuro.
