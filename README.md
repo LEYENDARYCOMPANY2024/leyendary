@@ -3,19 +3,19 @@
 ## funciones de leyendary
 |NO.|Modulo|Descripcion|Responsable|dificultad|
 |---|------|-----------|-----------|----------|
-|1  |Bienvenida
-|2  |inicio de sesion profesores
-|3  |registro de profesores
-|4  |recuperar contraseña
-|5  |inicio alumnos
-|6  |interfaz alumnos
-|6.1|ver clases y material agregados por el docente
-|6.2|ver actividades (agregadas por el profesor)
-|6.3|unirse a clases
-|6.4|Biblioteca (material apto)
-|6.5|perfil
-|6.5.1|actualizar perfil
-|6.5.2|eliminar perfil
+|1  |Bienvenida||Jonathan|
+|2  |inicio de sesion profesores||Jonathan|
+|3  |registro de profesores||Jonathan|
+|4  |recuperar contraseña||Diego|
+|5  |inicio alumnos||Jonathan|
+|6  |interfaz alumnos||Victor|
+|6.1|ver clases y material agregados por el docente||Victor|
+|6.2|ver actividades (agregadas por el profesor)||Victor|
+|6.3|unirse a clases||Victor|
+|6.4|Biblioteca (material apto)||Victor|
+|6.5|perfil||Victor|
+|6.5.1|actualizar perfil||Victor|
+|6.5.2|eliminar perfil||Victor|
 |
 |
 |
