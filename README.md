@@ -3,20 +3,28 @@
 ## funciones de leyendary
 |NO.|Modulo|Descripcion|Responsable|dificultad|
 |---|------|-----------|-----------|----------|
-|1  |Bienvenida||Jonathan|
-|2  |inicio de sesion profesores||Jonathan|
-|3  |registro de profesores||Jonathan|
-|4  |recuperar contraseña||Diego|
-|5  |inicio alumnos||Jonathan|
-|6  |interfaz alumnos||Victor|
-|6.1|ver clases y material agregados por el docente||Victor|
-|6.2|ver actividades (agregadas por el profesor)||Victor|
-|6.3|unirse a clases||Victor|
-|6.4|Biblioteca (material apto)||Victor|
-|6.5|perfil||Victor|
-|6.5.1|actualizar perfil||Victor|
-|6.5.2|eliminar perfil||Victor|
-|
-|
-|
+|1  |Bienvenida|Jonathan|||
+|1.1|sobre nosotros|Victor|||
+|1.2|soporte tecnico|Diego|||
+|1.3|terminos y condiciones|Victor|||
+|2  |inicio de sesion profesores|Jonathan|||
+|3  |registro de profesores|Jonathan|||
+|4  |recuperar contraseña|Diego|||
+|5  |inicio alumnos|Jonathan|||
+|6  |interfaz alumnos|Diego|||
+|6.1|ver clases y material agregados por el docente|Diego|||
+|6.2|ver actividades (agregadas por el profesor)|Diego|||
+|6.3|unirse a clases|Diego|||
+|6.4|Biblioteca (material apto)|Diego|||
+|6.5|perfil|Diego|||
+|6.5.1|actualizar perfil|Diego|||
+|6.5.2|eliminar perfil|Diego|||
+|7|Interfaz profesores||||
+|7.1|Leyendary IA||||
+|7.2|Biblioteca material sin calificar y calificado||||
+|7.3|crear clase||||
+|7.4|agregar actividades||||
+|7.5|agregar material||||
+|7.6|calificar material||||
+|7.7|||||
 ### COPYRIGHT 2024 LEYENDARY: Un proposito a futuro.
