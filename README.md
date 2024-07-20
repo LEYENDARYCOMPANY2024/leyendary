@@ -21,7 +21,7 @@
 |6.5.2|eliminar perfil|Diego|||
 |6.5.3|notificaciones alumnos||||
 |7|Interfaz profesores|Diego|||
-|7.1|Leyendary IA||Diego||
+|7.1|Leyendary IA|Diego y victor|||
 |7.2|Biblioteca material sin calificar y calificado|Diego|||
 |7.3|crear clase|Diego|||
 |7.4|agregar actividades|Diego|||
