@@ -51,8 +51,12 @@ Leyendary es una plataforma web diseñada como apoyo para material didáctico pa
 | 11  | Seguridad y privacidad           | Diego y Victor              | Funciones para asegurar la privacidad y la seguridad de los datos de los usuarios.                                | Compleja   |
 | 11.1 | Políticas de privacidad           | Victor                      | Documentación sobre cómo se manejan y protegen los datos de los usuarios.                                        | Compleja   |
 | 11.2 | Gestión de permisos y accesos     | Diego                       | Configuración de permisos y accesos para garantizar que los usuarios sólo vean y editen la información que les corresponde. | Compleja   |
+| 12  | Crear base de datos               | Victor y Jonathan           | Función para diseñar y crear la base de datos que soporte la plataforma.                                           | Compleja   |
+| 13  | Conexión base de datos            | Jonathan                    | Crear conexiones de la base de datos a las funciones de la página web.                                             | Compleja   |
+| 14  | Interconectar funciones           | Jonathan                    | Interconectar todas las funciones en una página web de forma integrada.                                           | Compleja   |
 
 ### COPYRIGHT 2024 LEYENDARY: Un propósito a futuro.
+
 
 
 
