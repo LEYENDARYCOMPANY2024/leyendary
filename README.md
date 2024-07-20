@@ -17,17 +17,17 @@
 |6.3|unirse a clases|Diego||media|
 |6.4|Biblioteca (material apto)|Diego y victor||media|
 |6.5|perfil|Diego||facil|
-|6.5.1|actualizar perfil|Diego||media|
-|6.5.2|eliminar perfil|Diego||media|
+|6.5.1|actualizar perfil|victor||media|
+|6.5.2|eliminar perfil|victor||media|
 |6.5.3|notificaciones alumnos|||media|
 |7|Interfaz profesores|Diego||facil|
 |7.1|Leyendary IA|Diego y victor||media|
 |7.2|Biblioteca material sin calificar y calificado|Diego||media|
 |7.3|crear clase|Diego||media|
 |7.4|agregar actividades|Diego||media|
-|7.5|agregar material|||media|
-|7.6|calificar material|||media|
-|7.7|notificaciones profesores|||facil|
-|7.8|actualizar perfil|||media|
-|7.9|eliminar perfil|||media|
+|7.5|agregar material|diegoy victor||media|
+|7.6|calificar material|diego y victor||media|
+|7.7|notificaciones profesores|diego y victor||facil|
+|7.8|actualizar perfil|victor||media|
+|7.9|eliminar perfil|victor||media|
 ### COPYRIGHT 2024 LEYENDARY: Un proposito a futuro.
