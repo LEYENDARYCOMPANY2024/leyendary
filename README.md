@@ -5,8 +5,8 @@
 |---|------|-----------|-----------|----------|
 |1  |Bienvenida|Jonathan||facil|
 |1.1|sobre nosotros|Victor||media|
-|1.2|soporte tecnico|Diego||media|
-|1.3|terminos y condiciones|Victor y alexis||facil|
+|1.2|soporte tecnico|Diego y alexis||media|
+|1.3|terminos y condiciones|Victor||media|
 |2  |inicio de sesion profesores|Jonathan||compleja|
 |3  |registro de profesores|Jonathan||compleja|
 |4  |recuperar contraseña|Diego victor, alexis||compleja|
@@ -15,7 +15,7 @@
 |6.1|ver clases y material agregados por el docente|victor y alexis||media|
 |6.2|ver actividades (agregadas por el profesor)|Diego y victor||media|
 |6.3|unirse a clases|Diego||media|
-|6.4|Biblioteca (material apto)|Diego y victor||media|
+|6.4|Biblioteca (material apto)|victor||media|
 |6.5|perfil|Diego||facil|
 |6.5.1|actualizar perfil|victor y alexis||media|
 |6.5.2|eliminar perfil|victor y alexis||media|
