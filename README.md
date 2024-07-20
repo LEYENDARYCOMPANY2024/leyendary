@@ -11,9 +11,9 @@
 |3  |registro de profesores|Jonathan||compleja|
 |4  |recuperar contraseña|Diego victor, alexis||compleja|
 |5  |inicio alumnos|Jonathan||facil|
-|6  |interfaz alumnos|Diego y victor||facil|
-|6.1|ver clases y material agregados por el docente|Diego||media|
-|6.2|ver actividades (agregadas por el profesor)|Diego||media|
+|6  |interfaz alumnos|victor||facil|
+|6.1|ver clases y material agregados por el docente|victor y alexis||media|
+|6.2|ver actividades (agregadas por el profesor)|Diego y victor||media|
 |6.3|unirse a clases|Diego||media|
 |6.4|Biblioteca (material apto)|Diego y victor||media|
 |6.5|perfil|Diego||facil|
