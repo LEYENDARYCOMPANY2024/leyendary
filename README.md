@@ -19,7 +19,7 @@
 |6.5|perfil|Diego||facil|
 |6.5.1|actualizar perfil|victor||media|
 |6.5.2|eliminar perfil|victor||media|
-|6.5.3|notificaciones alumnos|||media|
+|6.5.3|notificaciones alumnos|diego||media|
 |7|Interfaz profesores|Diego||facil|
 |7.1|Leyendary IA|Diego y victor||media|
 |7.2|Biblioteca material sin calificar y calificado|Diego||media|
